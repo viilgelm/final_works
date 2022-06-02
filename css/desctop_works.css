@@ -1,0 +1,16 @@
+.our_works_h2{
+    margin-top: 100px;
+}
+.our_works{
+text-align: center;
+    width: 100%;
+}
+.works_imgs{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.our_works_h2{
+font-size: 30px;
+}

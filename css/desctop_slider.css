@@ -1,0 +1,16 @@
+.slider{
+    margin-top: 100px;
+    text-align: center;
+}
+.item{
+    display: flex;
+}
+.slider_img{
+    border-radius: 200px;
+}
+.slider_h2{
+    font-size: 30px;
+}
+.item{
+    margin-top: 50px;
+}

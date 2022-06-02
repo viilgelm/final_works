@@ -1,0 +1,11 @@
+.footer{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    font-size: 30px;
+}
+.up_img{
+    position: fixed;
+}

@@ -1,0 +1,43 @@
+.calculator_value{
+color: black;
+}
+#type_design{
+    color: black;
+   
+}
+#count{
+    color: black;
+    
+}
+.calculator{
+margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+.calculator_result{
+margin-top: 30px;
+}
+.calculator_value{
+    color: black;
+}
+#authorization{
+    color: black;
+}
+#platform{
+    color: black;
+}
+#animation{
+    color: black;
+}
+#screen{
+    color: black;
+}
+#func{
+    color: black;
+}
+.calculator_select{
+margin-top: 50px;
+}
+.calculator_h2{
+    font-size: 30px;
+}

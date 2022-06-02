@@ -1,0 +1,227 @@
+#design:target {
+
+    display: block;
+    
+    }
+    
+    #design {
+    
+    background: rgba(102, 102, 102, 0.68);
+    
+    width: 100%;
+    
+    height: 100%;
+    
+    position: fixed;
+    
+    top: 0;
+    
+    left: 0;
+    
+    display: none;
+    
+    z-index: 9999999999;
+    
+    }
+
+#analisis:target {
+
+    display: block;
+    
+    }
+    
+    #analisis {
+    
+    background: rgba(102, 102, 102, 0.68);
+    
+    width: 100%;
+    
+    height: 100%;
+    
+    position: fixed;
+    
+    top: 0;
+    
+    left: 0;
+    
+    display: none;
+    
+    z-index: 9999999999;
+    
+    }
+
+#promotion:target {
+
+    display: block;
+    
+    }
+    
+    #promotion {
+    
+    background: rgba(102, 102, 102, 0.68);
+    
+    width: 100%;
+    
+    height: 100%;
+    
+    position: fixed;
+    
+    top: 0;
+    
+    left: 0;
+    
+    display: none;
+    
+    z-index: 9999999999;
+    
+    }
+
+#development:target {
+
+    display: block;
+    
+    }
+    
+    #development {
+    
+    background: rgba(102, 102, 102, 0.68);
+    
+    width: 100%;
+    
+    height: 100%;
+    
+    position: fixed;
+    
+    top: 0;
+    
+    left: 0;
+    
+    display: none;
+    
+    z-index: 9999999999;
+    
+    }
+
+
+
+#testing:target {
+
+    display: block;
+    
+    }
+    
+    #testing {
+    
+    background: rgba(102, 102, 102, 0.68);
+    
+    width: 100%;
+    
+    height: 100%;
+    
+    position: fixed;
+    
+    top: 0;
+    
+    left: 0;
+    
+    display: none;
+    
+    z-index: 9999999999;
+    
+    }
+
+#tel:target {
+
+    display: block;
+    
+    }
+    
+    #tel {
+    
+    background: rgba(102, 102, 102, 0.68);
+    
+    width: 100%;
+    
+    height: 100%;
+    
+    position: fixed;
+    
+    top: 0;
+    
+    left: 0;
+    
+    display: none;
+    
+    z-index: 9999999999;
+    
+    }
+
+#designs:target {
+
+    display: block;
+    
+    }
+    
+    #designs {
+    
+    background: rgba(102, 102, 102, 0.68);
+    
+    width: 100%;
+    
+    height: 100%;
+    
+    position: fixed;
+    
+    top: 0;
+    
+    left: 0;
+    
+    display: none;
+    
+    z-index: 9999999999;
+    
+    }
+
+   
+    window {
+    
+    position: absolute;
+    
+    top: 50%;
+    
+    left: 50%;
+    
+    width: 400px;
+    
+    border: 1px solid #cecece;
+    
+    padding: 50px;
+    
+    transform: translate(-50%,-50%);
+    color: black;
+    background-color:white;
+    
+    }
+    
+    div#main_text a.close_window {
+    
+    position: absolute;
+    
+    right: 10px;
+    
+    top: 4px;
+    
+    border: none;
+    color: black;
+    }
+.close_window{
+    color: black;
+    text-decoration: none;
+}
+.modal_text, .modal_text_tel{
+    margin-top: 20px;
+    color: black
+}
+.modal_text_tel{
+    text-align: center;
+}

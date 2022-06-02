@@ -1,0 +1,18 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.cards_btn{
+background-color: white;
+    color: black;
+    border: none;
+}
+.cards_btn_counter{
+    display: block;
+    text-align: center;
+}
+.cards_h2{
+    text-align: center;
+    margin-top: 100px;
+}

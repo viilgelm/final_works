@@ -1,0 +1,17 @@
+
+.about_company{
+    margin-top: 50px;
+    width: 100%;
+}
+.about_company_h1{
+font-size: 40px;
+    
+}
+
+.about_company_text{
+font-size: 30px;
+}
+.about_company{
+display: flex;
+    justify-content: space-between;
+}
